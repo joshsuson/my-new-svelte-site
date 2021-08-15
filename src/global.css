@@ -1,0 +1,29 @@
+html {
+	font-family: sans-serif;
+	box-sizing: border-box;
+	font-size: 10px;
+	--black: #222228;
+	--dark-gray: #2a2d31;
+	--gray: #37383a;
+	--light-gray: #595b5d;
+	--purple: #c6a8ef;
+	--green: #6ebfae;
+	--pink: #ff86ba;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-size: 1.5rem;
+	line-height: 1.5;
+}
+
+a {
+	text-decoration: none;
+}
